@@ -1,0 +1,29 @@
+.img {
+    width: 180px;
+    min-width: 180px;
+    max-width: 180px;
+    min-height: 270.31px;
+    max-height: 270.31px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9krHQLhZACfR7dRZvsbbo5D_XsLPWtREC2zeEKHuMOuqGnoj2) no-repeat center center;
+}
+
+.book-container {
+    display: flex;
+    flex-direction: column;
+    -ms-flex-direction: column;
+    /* background: #21212109; */
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.book-name, .author-name {
+    padding: 2px;
+}
+
+.link {
+    cursor: pointer;
+    color: #428bca;
+    text-decoration: none;
+    background-color: transparent;
+}
