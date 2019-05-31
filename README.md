@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/Murugawell/BookShelf/master/output/dashboard.png)
+![alt text](https://raw.githubusercontent.com/Murugawell/BookShelf/master/output/dashboard.PNG)
 ![alt text](https://raw.githubusercontent.com/Murugawell/BookShelf/master/output/moveToOption.png)
 ![alt text](https://raw.githubusercontent.com/Murugawell/BookShelf/master/output/search.png)
 
